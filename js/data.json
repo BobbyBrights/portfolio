@@ -1,0 +1,88 @@
+{
+	"copy" : {
+			"intro" : "Interactive Design working for the Guardian. Originally from Rotterdam, now living in London. Also, football.",
+			"whatIdo" : "I spend my days finding better ways to tell stories online, and designing those stories. Next to that I do some front-ending, mainly data-driven Javascript applications."
+		},
+	"Projects" : [
+		{
+			"name": "Firestorm",
+			"url": "http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family",
+			"description": "Rich multimedia piece for the guardian.",
+			"specials": ["Won Walkley Award", "Nominated for Webby Award", "SND Silver Medal", "Nomindated D&AD Awards", "Nominated for Online Journalism Award (lost to Snowfall, damnit)"],
+			"part" : "Concept and Design",
+			"atGuardian" : true
+		},
+		{
+			"name": "Refugee Challenge",
+			"url": "http://www.theguardian.com/global-development/ng-interactive/2014/jan/refugee-choices-interactive",
+			"description": "How would you enter Fortress Europe? A choose your own adventure game as a Syrian refugee.",
+			"specials": ["Shortlisted for One World Media Awards"],
+			"part" : "Design",
+			"atGuardian" : true
+		},
+		{
+			"name": "Pontifficator",
+			"url": "http://www.theguardian.com/global-development/ng-interactive/2014/jan/refugee-choices-interactive",
+			"description": "Choose Your Own Pope",
+			"specials": ["Included in the United States Library of Congress (I don't know what this means exactly, but it sounds pretty cool right?)"],
+			"part" : "Concept & Design",
+			"atGuardian" : true
+		},
+		{
+			"name": "World Cup 2014 Draw Interactive",
+			"url": "http://www.theguardian.com/global-development/ng-interactive/2014/jan/refugee-choices-interactive",
+			"description": "Make your own draw, and see who'll win the World Cup",
+			"specials": [],
+			"part" : "Concept, Design and Development",
+			"atGuardian" : true
+		},
+		{
+			"name": "Why are we building new walls to divide us?",
+			"url": "http://www.theguardian.com/global-development/ng-interactive/2014/jan/refugee-choices-interactive",
+			"description": "Rich Multimedia articles on walls dividing the world",
+			"specials": ["Nominated for OND Award"],
+			"part" : "Concept and Design",
+			"atGuardian" : true
+		},
+		{
+			"name": "The Shirt on Your Back",
+			"url": "http://www.theguardian.com/global-development/ng-interactive/2014/jan/refugee-choices-interactive",
+			"description": "Rich Multimedia story about the Bangladeshi garment industry",
+			"specials": ["new"],
+			"part" : "Concept and Design",
+			"atGuardian" : true
+		},
+		{
+			"name": "Indian Elections",
+			"url": "http://www.theguardian.com/global-development/ng-interactive/2014/jan/refugee-choices-interactive",
+			"description": "101 on the Indian Elections",
+			"specials": ["new"],
+			"part" : "Design and Development",
+			"atGuardian" : true
+		},
+		{
+			"name": "Life and Death on the world's most dangerous roads",
+			"url": "http://www.theguardian.com/global-development/interactive/2013/mar/14/life-death-world-dangerous-roads-interactive",
+			"description": "Article about road safety",
+			"specials": [],
+			"part" : "Design",
+			"atGuardian" : true
+		},
+		{
+			"name": "News Interactives: a toolkit for new ways of storytelling",
+			"url": "",
+			"description": "[Coming Soon]",
+			"specials": [],
+			"part" : "Concept, Design, Development, Everything",
+			"atGuardian" : false
+		},
+		{
+			"name": "For Fun: Interactive Installation",
+			"url": "",
+			"description": "Reactive music installation",
+			"specials": [],
+			"part" : "Concept and Development",
+			"atGuardian" : false
+		}
+	]
+}
