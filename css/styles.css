@@ -1,11 +1,12 @@
 body{
-    font-family:"Myriad Pro";
+    font-family:"PT Sans", "Myriad Pro";
     -webkit-font-smoothing:antialiased;
+    margin:0;
 }
 #wrapper{
-    margin:0 auto;
+    margin:0 auto 0 10%;
     max-width:640px;
-    padding:40px 20px;
+    padding:40px 20px 40px 0;
 }
 
 h1{
@@ -22,10 +23,11 @@ h2{
 
 a{
     color:#333;
+    transition: 0.2s color;
 }
 
-a:hover{
-     color:#2A6B8F;
+h2 a:hover{
+     color:#1074D3;
 }
 
 .projects{
@@ -55,21 +57,26 @@ a:hover{
 .project p.title{
     color:#333;
      margin:0;
-     -webkit-transition:all 0.2s;
+     transition:color 0.2s;
+     display:inline-block;
 }
 
 .project:hover{
-    /*border-bottom:1px solid #2a6b8f;*/
+    /*border-bottom:1px solid #1074D3;*/
 }
 
-.project:hover p.title,.project:hover p.description{
-    color:#2A6B8F;
+.project:hover p.title{
+    color:#1074D3;
+}
+
+.project:hover p.description{
+    color:#555;
 }
 
 .project p.description{
     margin:0.5em 0 0;
     color:#333;
-    -webkit-transition:all 0.2s;
+   transition:color 0.2s;
 }
 
 .project h2{
@@ -79,17 +86,14 @@ a:hover{
 }
 
 .project .guardian{
-    font-size:10px;
+    font-size:14px;
     font-weight:normal;
-    color:#333;
-    display:inline;
-    margin-left:10px;
-    padding:3px 3px 1px;
-    background:#eee;
-    vertical-align: bottom;
+    color:#aaa;
+    line-height:1em;
+    display:block;
 }
 
-@media screen and (min-width:480px){
+@media (min-width:480px){
     h1{
     font-size:4em;
     }
@@ -98,3 +102,9 @@ a:hover{
         font-size:1.5em;
     }
 }
+
+@media (min-width:640px){
+    #wrapper{
+    margin:0 auto 0 15%;
+}
+    }
