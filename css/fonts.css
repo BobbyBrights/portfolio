@@ -1,0 +1,15 @@
+@font-face{
+	font-family:"GT-Eesti";
+	src:url("GT-Eesti-Pro-Display-Regular.ttf");
+	font-weight:400;
+	font-style:normal;
+	font-stretch:normal
+}
+
+@font-face{
+	font-family:"GT-Eesti";
+	src:url("GT-Eesti-Pro-Display-UBold.ttf");
+	font-weight:900;
+	font-style:normal;
+	font-stretch:normal
+}
