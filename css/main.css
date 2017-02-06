@@ -619,6 +619,14 @@ h6 span{
 }
 
 
+/*Transfers window watch*/
+#project-transfers{
+	color:#fff;
+	position: relative;
+	padding-top:180px;
+	background:#4BC6DF;
+}
+
 
 /*#Project 8*/
 #project-scotland{
@@ -742,10 +750,10 @@ footer h2{
 
 @media(min-width:640px){
 	h1{
-		font-size:30px;
+		font-size:42px;
 	}
 	h2{
-		font-size:30px;
+		font-size:42px;
 	}
 	h4{
 		font-size:42px;
@@ -814,17 +822,17 @@ footer h2{
 
 @media(min-width:1040px){
 	h1{
-		font-size:36px;
+		font-size:48px;
 		margin-top:3em;
 		margin-bottom:1em;
 		max-width:960px;
-		line-height:48px;
+		line-height:60px;
 	}
 
 	h2{
-		font-size:36px;
+		font-size:48px;
 		margin-bottom:2em;
-		line-height:48px;
+		line-height:60px;
 		max-width:960px;
 	}
 
@@ -849,17 +857,17 @@ footer h2{
 	}
 
 	h4{
-		font-size:54px;
+		font-size:66px;
 	}
 
 	h5{
-		font-size:24px;
+		font-size:30px;
 		line-height: 1.25em;
-		margin-bottom:12px;
+		margin-bottom:6px;
 	}
 
 	h6{
-		font-size:16px;
+		font-size:24px;
 		margin-bottom:60px;
 	}
 
