@@ -791,6 +791,18 @@ footer h2{
 	}
 }
 
+@media(min-width:780px){
+	.project-content{
+		width:540px;
+	}
+	h4{
+		font-size:54px;
+	}
+	h5{
+		font-size:21px;
+	}
+}
+
 @media(min-width:854px){
 	#project-bangla video{
 		width:100%;
